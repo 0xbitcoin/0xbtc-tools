@@ -1,0 +1,15 @@
+{
+  "name": "0xbitcoin-tools",
+  "version": "1.0.0",
+  "description": "A set of web3 tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.3",
+    "web3": "^1.0.0-beta.30"
+  }
+}
