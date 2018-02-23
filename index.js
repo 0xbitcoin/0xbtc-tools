@@ -22,7 +22,7 @@ var AMT = 320000000000 ;
 init();
 
 
-
+//transfer out tokens from donations 
 async function init(){
 
   this.web3 = new Web3( );
